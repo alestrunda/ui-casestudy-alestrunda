@@ -7,4 +7,4 @@ School project.
 **Web**: alestrunda.cz  
 **Language**: Czech  
 **Created in**: LibreOffice Writer  
-**Subject**: YURO/2S-2017/UPOL
+**School Subject**: YURO/2S-2017/UPOL
