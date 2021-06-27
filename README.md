@@ -1,9 +1,8 @@
 # UI web study
 
-Study is focused on user interface (UI), or someone might rather say UI/UX.
+User Interface case study of web alestrunda.cz
 
 **Web**: alestrunda.cz  
 **Language**: Czech  
-**Made in**: LibreOffice Writer  
-
-YURO/2S-2017/UPOL
+**Created in**: LibreOffice Writer  
+**Subject**: YURO/2S-2017/UPOL
