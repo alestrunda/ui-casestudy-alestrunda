@@ -2,6 +2,8 @@
 
 User Interface case study of web alestrunda.cz
 
+School project.
+
 **Web**: alestrunda.cz  
 **Language**: Czech  
 **Created in**: LibreOffice Writer  
